@@ -1,0 +1,3 @@
+#to install pip: https://bootstrap.pypa.io/get-pip.py
+#to install type sudo pip install requests
+import requests
